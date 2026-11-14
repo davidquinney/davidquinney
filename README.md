@@ -6,11 +6,6 @@
 - **[practice-ps-doc-automation](https://github.com/davidquinney/practice-ps-doc-automation):** professional-services documentation automation
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidquinney/davidquinney/output/github-snake-dark.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/davidquinney/davidquinney/output/github-snake.svg" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidquinney/davidquinney/output/top-langs-dark.svg" />
   <img alt="Most used languages" src="https://raw.githubusercontent.com/davidquinney/davidquinney/output/top-langs.svg" />
 </picture>
