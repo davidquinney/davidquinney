@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220" viewBox="0 0 800 220" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+<text x="36" y="18" font-size="14" font-weight="600" fill="#e6edf3">Contributions, last 30 days<tspan font-weight="400" fill="#9198a1">  ·  1274 total</tspan></text>
+<line x1="36" x2="788" y1="192.0" y2="192.0" stroke="#3d444d" stroke-width="1"/><text x="28" y="196.0" font-size="10" text-anchor="end" fill="#9198a1">0</text>
+<line x1="36" x2="788" y1="152.5" y2="152.5" stroke="#3d444d" stroke-width="1"/><text x="28" y="156.5" font-size="10" text-anchor="end" fill="#9198a1">134</text>
+<line x1="36" x2="788" y1="113.0" y2="113.0" stroke="#3d444d" stroke-width="1"/><text x="28" y="117.0" font-size="10" text-anchor="end" fill="#9198a1">268</text>
+<line x1="36" x2="788" y1="73.5" y2="73.5" stroke="#3d444d" stroke-width="1"/><text x="28" y="77.5" font-size="10" text-anchor="end" fill="#9198a1">402</text>
+<line x1="36" x2="788" y1="34.0" y2="34.0" stroke="#3d444d" stroke-width="1"/><text x="28" y="38.0" font-size="10" text-anchor="end" fill="#9198a1">536</text>
+<polygon points="36.0,192 36.0,191.7 61.9,187.9 87.9,190.5 113.8,154.0 139.7,192.0 165.7,191.7 191.6,191.4 217.5,191.7 243.4,192.0 269.4,192.0 295.3,189.6 321.2,191.7 347.2,191.1 373.1,192.0 399.0,190.8 425.0,190.8 450.9,190.8 476.8,192.0 502.8,192.0 528.7,191.7 554.6,188.2 580.6,190.8 606.5,192.0 632.4,192.0 658.3,56.4 684.3,169.9 710.2,189.1 736.1,34.6 762.1,192.0 788.0,192.0 788.0,192" fill="#2ea043" fill-opacity="0.18"/><polyline points="36.0,191.7 61.9,187.9 87.9,190.5 113.8,154.0 139.7,192.0 165.7,191.7 191.6,191.4 217.5,191.7 243.4,192.0 269.4,192.0 295.3,189.6 321.2,191.7 347.2,191.1 373.1,192.0 399.0,190.8 425.0,190.8 450.9,190.8 476.8,192.0 502.8,192.0 528.7,191.7 554.6,188.2 580.6,190.8 606.5,192.0 632.4,192.0 658.3,56.4 684.3,169.9 710.2,189.1 736.1,34.6 762.1,192.0 788.0,192.0" fill="none" stroke="#3fb950" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="36.0" cy="191.7" r="2.5" fill="#3fb950"><title>2026-10-30: 1</title></circle>
+<text x="36.0" y="212" font-size="10" text-anchor="middle" fill="#9198a1">30 Oct</text>
+<circle cx="61.9" cy="187.9" r="2.5" fill="#3fb950"><title>2026-10-31: 14</title></circle>
+<circle cx="87.9" cy="190.5" r="2.5" fill="#3fb950"><title>2026-11-01: 5</title></circle>
+<circle cx="113.8" cy="154.0" r="2.5" fill="#3fb950"><title>2026-11-02: 129</title></circle>
+<circle cx="139.7" cy="192.0" r="2.5" fill="#3fb950"><title>2026-11-03: 0</title></circle>
+<circle cx="165.7" cy="191.7" r="2.5" fill="#3fb950"><title>2026-11-04: 1</title></circle>
+<text x="165.7" y="212" font-size="10" text-anchor="middle" fill="#9198a1">04 Nov</text>
+<circle cx="191.6" cy="191.4" r="2.5" fill="#3fb950"><title>2026-11-05: 2</title></circle>
+<circle cx="217.5" cy="191.7" r="2.5" fill="#3fb950"><title>2026-11-06: 1</title></circle>
+<circle cx="243.4" cy="192.0" r="2.5" fill="#3fb950"><title>2026-11-07: 0</title></circle>
+<circle cx="269.4" cy="192.0" r="2.5" fill="#3fb950"><title>2026-11-08: 0</title></circle>
+<circle cx="295.3" cy="189.6" r="2.5" fill="#3fb950"><title>2026-11-09: 8</title></circle>
+<text x="295.3" y="212" font-size="10" text-anchor="middle" fill="#9198a1">09 Nov</text>
+<circle cx="321.2" cy="191.7" r="2.5" fill="#3fb950"><title>2026-11-10: 1</title></circle>
+<circle cx="347.2" cy="191.1" r="2.5" fill="#3fb950"><title>2026-11-11: 3</title></circle>
+<circle cx="373.1" cy="192.0" r="2.5" fill="#3fb950"><title>2026-11-12: 0</title></circle>
+<circle cx="399.0" cy="190.8" r="2.5" fill="#3fb950"><title>2026-11-13: 4</title></circle>
+<circle cx="425.0" cy="190.8" r="2.5" fill="#3fb950"><title>2026-11-14: 4</title></circle>
+<text x="425.0" y="212" font-size="10" text-anchor="middle" fill="#9198a1">14 Nov</text>
+<circle cx="450.9" cy="190.8" r="2.5" fill="#3fb950"><title>2026-11-15: 4</title></circle>
+<circle cx="476.8" cy="192.0" r="2.5" fill="#3fb950"><title>2026-11-16: 0</title></circle>
+<circle cx="502.8" cy="192.0" r="2.5" fill="#3fb950"><title>2026-11-17: 0</title></circle>
+<circle cx="528.7" cy="191.7" r="2.5" fill="#3fb950"><title>2026-11-18: 1</title></circle>
+<circle cx="554.6" cy="188.2" r="2.5" fill="#3fb950"><title>2026-11-19: 13</title></circle>
+<text x="554.6" y="212" font-size="10" text-anchor="middle" fill="#9198a1">19 Nov</text>
+<circle cx="580.6" cy="190.8" r="2.5" fill="#3fb950"><title>2026-11-20: 4</title></circle>
+<circle cx="606.5" cy="192.0" r="2.5" fill="#3fb950"><title>2026-11-21: 0</title></circle>
+<circle cx="632.4" cy="192.0" r="2.5" fill="#3fb950"><title>2026-11-22: 0</title></circle>
+<circle cx="658.3" cy="56.4" r="2.5" fill="#3fb950"><title>2026-11-23: 460</title></circle>
+<circle cx="684.3" cy="169.9" r="2.5" fill="#3fb950"><title>2026-11-24: 75</title></circle>
+<text x="684.3" y="212" font-size="10" text-anchor="middle" fill="#9198a1">24 Nov</text>
+<circle cx="710.2" cy="189.1" r="2.5" fill="#3fb950"><title>2026-11-25: 10</title></circle>
+<circle cx="736.1" cy="34.6" r="2.5" fill="#3fb950"><title>2026-11-26: 534</title></circle>
+<circle cx="762.1" cy="192.0" r="2.5" fill="#3fb950"><title>2026-11-27: 0</title></circle>
+<circle cx="788.0" cy="192.0" r="2.5" fill="#3fb950"><title>2026-11-28: 0</title></circle>
+<text x="788.0" y="212" font-size="10" text-anchor="end" fill="#9198a1">28 Nov</text>
+</svg>
